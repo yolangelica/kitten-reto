@@ -1,0 +1,19 @@
+body, .col-12{
+	margin:0;
+	padding: 0;
+
+}
+
+.img1{
+	background-image: url(../img/sunny-day.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 50em;
+	
+}
+
+.cat1{
+	margin-left: 25%;
+	margin-top:25%;
+	width:50%;
+}
